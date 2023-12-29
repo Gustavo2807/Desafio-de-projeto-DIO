@@ -1,5 +1,5 @@
 let nomeDoHeroi = "Gustavo"
-let XP = 1000
+let XP = 100
 
 
 switch (XP) {
